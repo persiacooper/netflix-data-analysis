@@ -1,4 +1,4 @@
-\# Netflix Data Analysis 🎬📊
+# Netflix Data Analysis 🎬📊
 
 
 
@@ -6,7 +6,7 @@ This project explores a dataset of Netflix titles to uncover patterns in content
 
 
 
-\## 🔍 About this Project
+## 🔍 About this Project
 
 
 
@@ -16,91 +16,91 @@ Netflix is one of the largest streaming platforms globally. This dataset contain
 
 The goal of this project is to analyze the dataset to answer questions such as:
 
-\- What’s the breakdown of Movies vs TV Shows?
+- What’s the breakdown of Movies vs TV Shows?
 
-\- Which countries produce the most Netflix content?
+- Which countries produce the most Netflix content?
 
-\- What are the most common genres?
+- What are the most common genres?
 
-\- Who are the most frequently featured actors?
+- Who are the most frequently featured actors?
 
-\- How has content output changed over time?
-
-
-
-\## 📁 Project Structure
+- How has content output changed over time?
 
 
 
-
-
-\## 🧪 Technologies Used
-
-
-
-\- \*\*Python\*\*
-
-\- \*\*Pandas\*\* for data manipulation
-
-\- \*\*Matplotlib\*\* for visualizations
-
-\- \*\*Google Colab\*\* for running the notebook
+## 📁 Project Structure
 
 
 
-\## 📈 Key Findings
+
+
+## 🧪 Technologies Used
 
 
 
-\- Movies make up the majority of content on Netflix.
+- **Python**
 
-\- The United States is the top content-producing country.
+- **Pandas** for data manipulation
 
-\- The most common genres are Documentaries, Dramas, and Comedies.
+- **Matplotlib** for visualizations
 
-\- Certain actors appear frequently across titles.
-
-\- Netflix content output increased significantly after 2015.
+- **Google Colab** for running the notebook
 
 
 
-\## 📂 Dataset Info
+## 📈 Key Findings
 
 
 
-\- Source: \[Kaggle Netflix Titles Dataset](https://www.kaggle.com/datasets/shivamb/netflix-shows)
+- Movies make up the majority of content on Netflix.
 
-\- Rows: ~8800+
+- The United States is the top content-producing country.
 
-\- Columns: 12
+- The most common genres are Documentaries, Dramas, and Comedies.
+
+- Certain actors appear frequently across titles.
+
+- Netflix content output increased significantly after 2015.
 
 
 
-\## 🧠 What I Learned
+## 📂 Dataset Info
+
+
+
+- Source: \[Kaggle Netflix Titles Dataset](https://www.kaggle.com/datasets/shivamb/netflix-shows)
+
+- Rows: ~8800+
+
+- Columns: 12
+
+
+
+## 🧠 What I Learned
 
 
 
 This project helped reinforce my skills in:
 
-\- Data cleaning (handling missing values)
+- Data cleaning (handling missing values)
 
-\- Exploratory data analysis (EDA)
+- Exploratory data analysis (EDA)
 
-\- Generating insights using charts
+- Generating insights using charts
 
-\- Using Google Colab effectively
-
-
-
-\## 📌 Future Work
+- Using Google Colab effectively
 
 
 
-\- Grouping by director or production company
+## 📌 Future Work
 
-\- Time-series analysis of yearly trends
 
-\- Genre popularity by country
+
+- Grouping by director or production company
+
+- Time-series analysis of yearly trends
+
+- Genre popularity by country
 
 
 
